@@ -5341,6 +5341,9 @@ text-align: center;
 .team-member{
   cursor: pointer;
 }
+.team-member img{
+  margin-right:unset !important;
+}
 .team-member:hover .team-overlay{
   opacity: 0.4;
 }
